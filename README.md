@@ -1,6 +1,6 @@
 # 🍽️ Meal App – Recipe Search Application
 
-A responsive web application that allows users to search and explore a variety of meal recipes using the [MealDB API](https://www.themealdb.com/). Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this app provides a clean and interactive interface for food enthusiasts.
+A responsive web application that allows users to search and explore a variety of meal recipes using the [MealDB API](https://www.themealdb.com/). Built using **HTML**, **CSS**, and **JavaScript**, this app provides a clean and interactive interface for food enthusiasts.
 
 ## 🔗 Live Demo
 
