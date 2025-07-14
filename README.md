@@ -29,3 +29,7 @@ Meal_app/
 ├── style.css
 ├── script.js
 └── README.md
+
+## 👤 Author
+
+- **Mayank Jhare** — [GitHub](https://github.com/mayankjhare) • [LinkedIn](https://linkedin.com/in/mayank-jharehar20)
